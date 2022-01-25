@@ -1,0 +1,10 @@
+section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+
+}
+section img{
+    grid-area: i;
+    margin: 20px;
+}
